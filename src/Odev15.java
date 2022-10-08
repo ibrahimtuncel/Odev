@@ -1,6 +1,6 @@
 import java.util.*;
 public class Odev15 {
-
+	//github
 	String isim;
 	String soyisim;
 	String sicilNo;
